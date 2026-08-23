@@ -7,3 +7,8 @@ Belajar Dasar Git dan GitHub
 - Git dan GitHub
 - Dasar Git
 - Studi Kasus dan Pengalaman Belajar
+
+Latihan membuat daftar siswa dari github
+--
+*Berikut adalah list angkatan siswa*
+- Angkatan 2019
