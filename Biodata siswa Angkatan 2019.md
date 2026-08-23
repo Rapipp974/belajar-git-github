@@ -1,5 +1,5 @@
 1. Nama   : Aco Wahyudi
-   NIM    : H2020000001
+   NIM    : H2020000008
    JK     : Laki - Laki
    Agama  : Islam
    TTL    : Ambon, 19 Agustus 2004
@@ -16,7 +16,7 @@
    NIM    : H2020000003
    JK     : Perempuan
    Agama  : Islam
-   TTL    : Samarinda, 22 Desember 2002
+   TTL    : Bekasi, 22 Desember 2002
    Alamat : Jln. Keledang RT.13 No.26
  
 4. Nama   : Ilham ILyas
